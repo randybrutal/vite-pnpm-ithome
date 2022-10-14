@@ -9,7 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.37"
+    "axios": "^1.1.2",
+    "sass": "^1.55.0",
+    "sass-loader": "^13.1.0",
+    "vue": "^3.2.37",
+    "vue-cli-plugin-pug": "^2.0.0",
+    "vue-router": "^4.1.5",
+    "vuesax3": "^4.0.24"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.3",
